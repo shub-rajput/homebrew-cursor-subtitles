@@ -1,6 +1,6 @@
  cask "cursor-subtitles" do
-    version "1.0.1"
-    sha256 "dd64f9e11c58158e03798247292e48f63397846caec026eed6f716a01c508112"
+    version "1.0.2"
+    sha256 "826cc4099ffe9281aa3b901200251ea3aace26f7a882b9bfe11b754182c0ec84"
 
     url "https://github.com/shub-rajput/cursor_subtitles/releases/download/v#{version}/CursorSubtitles_v#{version}.zip"
     name "CursorSubtitles"
