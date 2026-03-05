@@ -1,6 +1,6 @@
   cask "pubbles" do
-    version "1.0.5"
-    sha256 "571d188d4689102fe33943efc9074d13d5da3ede7d5a46a25e69d6ce35aa68c6"
+    version "1.1.0"
+    sha256 "a20bd95ddac3c251006d67af46d478eab8efb2f74811cb0f7f99820351197b3a"
 
     url "https://github.com/shub-rajput/pubbles/releases/download/v#{version}/Pubbles_v#{version}.zip"
     name "Pubbles"
